@@ -1,0 +1,35 @@
+Menu={
+    "Tea":{
+        "ingrediants":{
+            "Water":100,
+            "TeaPowder":100,
+            "Sugar":100,
+        },
+        "cost":100,
+
+},
+    "BlackTea":{
+        "ingrediants":{
+            "Water":150,
+            "BlackTeaPowder":150,
+            "Sugar":100,
+        },
+        "cost":80,
+    },
+    "Coffee":{
+        "ingrediants":{
+            "Water":50,
+            "CoffeePowder":200,
+            "Sugar":150,
+        },
+        "cost":200,
+    },
+}
+
+Resources={
+    "Water":200,
+    "TeaPowder":150,
+    "CoffeePowder":200,
+    "BlackTeaPowder":150,
+    "Sugar":300,
+}
